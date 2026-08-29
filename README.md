@@ -1,5 +1,5 @@
 # Jupiters-PZ-Graphical-Asset-Hub
-This is my Repo of graphic assets I have made for my Project Zomboid mods. 
+This is my repository of graphic assets I have made for my Project Zomboid mods. 
 
 Feel free to download and use anything in here! 
 
